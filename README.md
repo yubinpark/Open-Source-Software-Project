@@ -1,5 +1,5 @@
 # Team 4 LP3
-![19](https://user-images.githubusercontent.com/33916201/34055982-c5126a56-e214-11e7-8cdb-3f890163f410.png)
+
 ## 9/27
 ### Misson
 
