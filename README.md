@@ -33,6 +33,10 @@
 #### Problem solving
 
 ![16](https://user-images.githubusercontent.com/33916201/34054587-040c4cbe-e20f-11e7-8629-0345f3695c9a.png)  
+### Completed version
+
+![17](https://user-images.githubusercontent.com/33916201/34054960-7bbc6cfc-e210-11e7-82d6-8b2abcb9b998.png)  
+
 
 
 
