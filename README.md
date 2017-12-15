@@ -30,6 +30,9 @@
 #### Expected scenario
 
 ![15](https://user-images.githubusercontent.com/33916201/34054143-f337bdbc-e20c-11e7-8f39-3da8fcc44c6d.png)  
+#### Problem solving
+
+![16](https://user-images.githubusercontent.com/33916201/34054587-040c4cbe-e20f-11e7-8629-0345f3695c9a.png)  
 
 
 
