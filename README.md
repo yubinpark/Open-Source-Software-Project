@@ -1,9 +1,8 @@
 # Team 4 LP3
 ## 9/27
 #Misson
-![8](https://user-images.githubusercontent.com/33916201/34049373-86c8cfde-e1fa-11e7-9ae6-080dadec3a37.png)  
-
+https://user-images.githubusercontent.com/33916201/34049890-5d7714ae-e1fc-11e7-8cc7-0ff1ef8f9b47.png) 
 #Product
-![1](https://user-images.githubusercontent.com/33916201/34049500-f63ec03a-e1fa-11e7-90be-1a03c7518543.jpg)  
+
 
 
