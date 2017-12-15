@@ -12,10 +12,13 @@
 ### Function
 
 ![11](https://user-images.githubusercontent.com/33916201/34051290-5c87e154-e201-11e7-929a-c546971c93d5.png)  
+
 ## 9/28 - 12/12
 ### What to do?
 
 ![12](https://user-images.githubusercontent.com/33916201/34051734-1054cd72-e203-11e7-85dc-6db64800d1a0.png)  
+
+# 12/13
 
 
 
