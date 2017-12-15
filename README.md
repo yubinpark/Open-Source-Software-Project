@@ -9,7 +9,5 @@
 ### Channel & Button
 
 ![10](https://user-images.githubusercontent.com/33916201/34050987-3de45ce2-e200-11e7-911f-6227d5f98b64.png)  
-
-
-
+### Function
 
