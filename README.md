@@ -26,7 +26,7 @@
 ### 3D Modeling
 #### Rihnoceros
 
-![14](https://user-images.githubusercontent.com/33916201/34054688-658dd78c-e20f-11e7-9daf-2cbbdfbfbdcd.png)
+![14](https://user-images.githubusercontent.com/33916201/34054866-0b12305e-e210-11e7-8987-f3165da998a2.png)
 #### Expected scenario
 
 ![15](https://user-images.githubusercontent.com/33916201/34054143-f337bdbc-e20c-11e7-8f39-3da8fcc44c6d.png)  
