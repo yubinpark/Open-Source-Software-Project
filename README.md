@@ -20,6 +20,10 @@
 ![12](https://user-images.githubusercontent.com/33916201/34051734-1054cd72-e203-11e7-85dc-6db64800d1a0.png)  
 
 ## 12/13
+### Addition of function
+
+![13](https://user-images.githubusercontent.com/33916201/34053439-34e79fa0-e20a-11e7-809e-dcc660d908c7.png)  
+
 
 
 
