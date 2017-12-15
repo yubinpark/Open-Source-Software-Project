@@ -13,6 +13,8 @@
 ### Function
 
 ![11](https://user-images.githubusercontent.com/33916201/34052848-7becab00-e207-11e7-8090-95e0b5809da5.png)  
+### Video
+
 [Video!](https://www.youtube.com/watch?v=4GdbzMwT1fU)
 ## 9/28 - 12/12
 ### What to do
@@ -36,6 +38,8 @@
 ### Completed version
 
 ![17](https://user-images.githubusercontent.com/33916201/34054960-7bbc6cfc-e210-11e7-82d6-8b2abcb9b998.png)  
+### Video
+[Video!](https://www.youtube.com/watch?v=SPyP14xOFWw)
 ### Something I regret
 
 ![18](https://user-images.githubusercontent.com/33916201/34055791-1ba13e98-e214-11e7-879e-1e4bc5b66f64.png)  
