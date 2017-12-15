@@ -13,6 +13,10 @@
 
 ![11](https://user-images.githubusercontent.com/33916201/34051290-5c87e154-e201-11e7-929a-c546971c93d5.png)  
 ## 9/28 - 12/12
+### What to do?
+
+![12](https://user-images.githubusercontent.com/33916201/34051648-ca10779e-e202-11e7-94fc-b3839a25e769.png)  
+
 
 
 
