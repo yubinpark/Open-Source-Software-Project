@@ -27,6 +27,9 @@
 #### Rihnoceros
 
 ![14](https://user-images.githubusercontent.com/33916201/34053812-8fdf8d90-e20b-11e7-8736-b464739d3c26.png)  
+#### Expected scenario
+
+![15](https://user-images.githubusercontent.com/33916201/34054143-f337bdbc-e20c-11e7-8f39-3da8fcc44c6d.png)  
 
 
 
