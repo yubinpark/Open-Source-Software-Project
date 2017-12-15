@@ -12,7 +12,7 @@
 ![10](https://user-images.githubusercontent.com/33916201/34050987-3de45ce2-e200-11e7-911f-6227d5f98b64.png)  
 ### Function
 
-https://user-images.githubusercontent.com/33916201/34052848-7becab00-e207-11e7-8090-95e0b5809da5.png)  
+![11](https://user-images.githubusercontent.com/33916201/34052848-7becab00-e207-11e7-8090-95e0b5809da5.png)  
 
 ## 9/28 - 12/12
 ### What to do?
