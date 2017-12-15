@@ -15,7 +15,7 @@
 ![11](https://user-images.githubusercontent.com/33916201/34052848-7becab00-e207-11e7-8090-95e0b5809da5.png)  
 
 ## 9/28 - 12/12
-### What to do?
+### What to do
 
 ![12](https://user-images.githubusercontent.com/33916201/34051734-1054cd72-e203-11e7-85dc-6db64800d1a0.png)  
 
@@ -24,13 +24,13 @@
 
 ![13](https://user-images.githubusercontent.com/33916201/34053439-34e79fa0-e20a-11e7-809e-dcc660d908c7.png)  
 ### 3D Modeling
-#### Rihnoceros
+#### - Rihnoceros
 
 ![14](https://user-images.githubusercontent.com/33916201/34054866-0b12305e-e210-11e7-8987-f3165da998a2.png)
-#### Expected scenario
+#### - Expected scenario
 
 ![15](https://user-images.githubusercontent.com/33916201/34054143-f337bdbc-e20c-11e7-8f39-3da8fcc44c6d.png)  
-#### Problem solving
+#### - Problem solving
 
 ![16](https://user-images.githubusercontent.com/33916201/34054587-040c4cbe-e20f-11e7-8629-0345f3695c9a.png)  
 ### Completed version
