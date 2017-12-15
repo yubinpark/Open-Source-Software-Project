@@ -15,7 +15,8 @@
 ## 9/28 - 12/12
 ### What to do?
 
-![12](https://user-images.githubusercontent.com/33916201/34051648-ca10779e-e202-11e7-94fc-b3839a25e769.png)  
+![12](https://user-images.githubusercontent.com/33916201/34051734-1054cd72-e203-11e7-85dc-6db64800d1a0.png)  
+
 
 
 
