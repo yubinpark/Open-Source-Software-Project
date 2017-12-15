@@ -13,7 +13,7 @@
 ### Function
 
 ![11](https://user-images.githubusercontent.com/33916201/34052848-7becab00-e207-11e7-8090-95e0b5809da5.png)  
-
+[Video!](https://www.youtube.com/watch?v=4GdbzMwT1fU)
 ## 9/28 - 12/12
 ### What to do
 
